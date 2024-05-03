@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1609887628 source:/home/pi/testbad/testbad/id.s
+
+1607668494 source:/home/pi/testbad/testbad/main.s
+
+1609934655 source:/home/pi/testbad/testbad/name.s
+
+1609924451 source:/home/pi/testbad/testbad/julia.s
+
+1609935940 source:/home/pi/testbad/testbad/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/mman.h>
+	<fcntl.h>
+
+1609932675 source:/home/pi/testbad/testbad/DrawJulia.s
+
